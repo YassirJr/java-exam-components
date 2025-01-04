@@ -1,7 +1,5 @@
 package com.inventory.javaexamcomponents.controller;
 
-package com.javafx.javafx.controller;
-
 import com.javafx.javafx.metier.IMetier;
 import com.javafx.javafx.metier.MetierImpl;
 import com.javafx.javafx.models.Departement;
